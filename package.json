@@ -2,6 +2,7 @@
   "name": "react-native-thumbnail",
   "version": "1.1.3",
   "description": "Get thumbnail from local media.",
+  "summary": "Creates an image from a local video and returns a temporary path.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
